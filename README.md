@@ -1,2 +1,2 @@
-# resume
-My resume
+# Resume
+The CV/resume of Ajmer Dhariwal
