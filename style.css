@@ -19,8 +19,8 @@ h2 {
 
 main { 
     display: grid;
-    grid-template-columns: 40% 60%;
-    margin-top: 3em;
+    grid-template-columns: 35% 65%;
+    margin-top: 1.5em;
 }
 
 header {
