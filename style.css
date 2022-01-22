@@ -21,6 +21,7 @@ main {
     display: grid;
     grid-template-columns: 35% 65%;
     margin-top: 1.5em;
+    position: relative; /* added this to allow print footer to stay at bottom of page */
 }
 
 header {
@@ -50,9 +51,9 @@ hr {
     margin-right: 1.5em;
 }
 
-div.absolute {
+#sideFooter {
     position: absolute;
-    bottom: 10px;
+    bottom: 0px;
 }
 
 h1, h2 {
