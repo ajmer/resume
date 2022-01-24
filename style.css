@@ -19,7 +19,7 @@ h2 {
 
 main { 
     display: grid;
-    grid-template-columns: 35% 65%;
+    grid-template-columns: 40% 60%;
     margin-top: 1.5em;
     position: relative; /* added this to allow print footer to stay at bottom of page */
 }
